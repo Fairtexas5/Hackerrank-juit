@@ -1,5 +1,7 @@
 #include <stdio.h>
-//write function prototype here
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
 
 int checkno(int n)
 {
