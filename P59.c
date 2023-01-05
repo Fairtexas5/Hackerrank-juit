@@ -1,5 +1,6 @@
-//Write a program in C Program to Add Two Distances (in in-ft system) using Structures
 
+
+//Write a program in C Program to Add Two Distances (in in-ft system) using Structures
 
 #include <stdio.h>
 #include <string.h>
@@ -23,6 +24,6 @@ int main() {
       ans.in = ans.in - 12.0;
       ++ans.ft;
    }
-   printf("%d\'-%.1f\"", ans.ft, ans.in);
+   printf("Sum of distances = %d\'-%.1f\"", ans.ft, ans.in);
    return 0;
 }
