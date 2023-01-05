@@ -1,3 +1,6 @@
+
+//Factorial of a number using Recursion
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
