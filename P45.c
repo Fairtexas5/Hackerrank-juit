@@ -1,5 +1,11 @@
+
+//HCF using function
+
 #include <stdio.h>
+#include <string.h>
+#include <math.h>
 #include <stdlib.h>
+
 int hcf(int a, int b);
 int main() {
     int n1, n2;
