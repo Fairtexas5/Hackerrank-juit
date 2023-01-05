@@ -1,4 +1,11 @@
+
+//Write a C program which reads two integers and calculates remainder and divisor
+
+
 #include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
 
 void div_rem(int n1, int n2, int *div, int *rem)
 {

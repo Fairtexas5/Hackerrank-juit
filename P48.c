@@ -1,5 +1,11 @@
+
+//Function for biggest between two numbers or three numbers
+
 #include <stdio.h>
+#include <string.h>
+#include <math.h>
 #include <stdlib.h>
+
 int * biggest_of_two(int *n1, int *n2)
 
 {
