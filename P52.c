@@ -1,3 +1,6 @@
+
+//Write a program in C to Add Two Matrices Using Multi-dimensional Arrays.
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>

@@ -1,7 +1,15 @@
+
+//Write a C Program to Multiply two Matrices by Passing Matrix to a Function. Following functions should be used:
+
 #include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
 
 void enterData(int firstMatrix[][10], int secondMatrix[][10], int rowFirst, int columnFirst, int rowSecond, int columnSecond);
+
 void multiplyMatrices(int firstMatrix[][10], int secondMatrix[][10], int multResult[][10], int rowFirst, int columnFirst, int rowSecond, int columnSecond);
+
 void display(int mult[][10], int rowFirst, int columnSecond);
 
 int main()

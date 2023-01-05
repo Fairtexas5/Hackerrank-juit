@@ -1,4 +1,11 @@
+
+//Write a program in C to find largest element in the array.
+
 #include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
 int main() {
   int n;
   double arr[100];

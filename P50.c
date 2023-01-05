@@ -1,4 +1,11 @@
+
+//Write a program in C which calculates average of number stored in arrays. User will enter number of elements and then enter elements to calculate the average.
+
 #include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
 int main()  
 {  
     int n, i;  
