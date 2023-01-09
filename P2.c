@@ -7,5 +7,5 @@ int main()
     printf("Number is %s",a);
     return 0;
 
-    
+    //.ad
 }
